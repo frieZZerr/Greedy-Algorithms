@@ -72,7 +72,7 @@ public class Backpack {
         //	---------------------------
         //	Reading data from .txt file
         //	---------------------------
-        String path = System.getProperty("user.dir")+"\\src\\plecakZadanieG3.txt";
+        String path = System.getProperty("user.dir")+"\\src\\data1.txt";
         File file = new File( path );
         List<Item> items = new ArrayList<Item>();
 
