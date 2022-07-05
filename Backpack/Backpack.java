@@ -91,11 +91,6 @@ public class Backpack {
 
             scanner.close();
         } catch (Exception e) {}
-		
-		/*
-		for( Item i : items )
-			System.out.println( "Weight: " + i.getWeight() + "	Value: " + i.getValue() );
-		*/
 
         List<Item> bestItems = new ArrayList<Item>();
         int current_capacity = 0;
