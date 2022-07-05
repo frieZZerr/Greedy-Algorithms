@@ -17,6 +17,4 @@ We simply pick the items that have **best proportions** _( item.value/item.weigh
 ### Data input
 Data format is simple: ***item_weight [whitespace char] item_value***, e.g **( 3 120 )**.
 
----
-
-You can set the Knapsack size [here](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Backpack/Backpack.java#L11) or change the data file [here](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Backpack/Backpack.java#L75).
+<sub>You can set the Knapsack size [here](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Backpack/Backpack.java#L11) or change the data file [here](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Backpack/Backpack.java#L75).</sub>
