@@ -3,6 +3,8 @@
 
 ![Ghandi with a backpack](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Backpack/mahatma_ghandi_with_a_backpack.jpg)
 
+---
+
 ### What's the problem?
 It's so simple even ***wikipedia.org*** can explain it.
 
