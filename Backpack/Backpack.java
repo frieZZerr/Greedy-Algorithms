@@ -53,8 +53,7 @@ public class Backpack {
     }
 
     //	--------------------------------------------------
-    //	For the needs of the greedy algorithm,
-    //		finding the item with best value ¯\_(ツ)_/¯
+    //	Summing all the passed items' values
     //	----------------------------------------------
     static int getBestValue( List<Item> items ) {
 
