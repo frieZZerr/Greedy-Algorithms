@@ -46,4 +46,4 @@ int div = value/nominals.get(index);
 
 After that we check if we can give back the `nominal's value`. If it's not physically possible to change the money, we try to change it with a `lower nominal`.
 
-<sup>The amount of money to be changed can be modified [here](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Changer/Exchanger.java#L77)</sup>
+<sup>The amount of money to be changed can be modified [here](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Changer/Changer.java#L77)</sup>
