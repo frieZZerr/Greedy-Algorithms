@@ -57,3 +57,16 @@ Data format is simple: `item_weight [whitespace char] item_value`, e.g.:
 ```
 
 <sup>You can set the Knapsack size [here](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Backpack/Backpack.java#L11) or change the data file [here](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Backpack/Backpack.java#L75).</sup>
+
+### Example output for `data1.txt`:
+
+```
+Best Value: 680
+Weight: 3	Value: 185
+Weight: 1	Value: 60
+Weight: 2	Value: 50
+Weight: 5	Value: 120
+Weight: 2	Value: 45
+Weight: 10	Value: 200
+Weight: 1	Value: 20
+```
