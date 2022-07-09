@@ -1,6 +1,6 @@
 # The problem of spending change
 
-![Money](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Changer/money.jpg)
+![money](https://user-images.githubusercontent.com/105242009/178106970-2ad8e722-b296-4064-aefb-c014fae2fa3b.jpg)
 
 ### Quick explanation
 
