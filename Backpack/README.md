@@ -1,7 +1,7 @@
 # The Knapsack Problem
 > _"Every thief needs to have the basic knowledge of **The Knapsack Problem**..."_ ~ ***Ghandi***
 
-![Ghandi with a backpack](https://github.com/frieZZerr/Greedy-Algorithms/blob/main/Backpack/mahatma_ghandi_with_a_backpack.jpg)
+![mahatma_ghandi_with_a_backpack](https://user-images.githubusercontent.com/105242009/178107000-e69c3b64-c56e-4c64-9164-8f71104c2fc5.jpg)
 
 ---
 
