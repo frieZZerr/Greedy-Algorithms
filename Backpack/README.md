@@ -19,7 +19,7 @@ double proportion = item.value/item.weight
 ```
 <sup>*The higher the proportion's value, the more valuable the item is ***(at the moment!)***.</sup>
 
-To find the _"best item"_ we'll use `findItemWithBestProportion`:
+To find the _"best item"_ we will use `findItemWithBestProportion`:
 
 ```java
 static Item findItemWithBestProportion( List<Item> items, Backpack b ) {
